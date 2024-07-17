@@ -1,0 +1,29 @@
+Name: InserBook
+
+1. The user requests access. 
+
+2. The system compares the credentials entered with those present in the database. 
+
+3. The system provides input fields for the new book to be registered. 
+
+4. The user fills in the required fields and submits. 
+
+5. The system records the data of the book sent. 
+
+6. The system updates the list and number of books sent by the user. 
+
+7. The system sends a notification confirming the registration of the book. 
+
+  
+
+Extension 
+
+1a. The user does not enter a valid e-mail format, the system notifies of the wrong format and shows an example of the correct format. 
+
+2a. The credentials entered have no correspondence in the system. The system notifies that the user may not be registered or may have entered incorrect data. 
+
+4a. The user has not filled in all the mandatory fields. The system notifies you that there are some mandatory fields that have not been filled. 
+
+4b. The user is entered in a field of prohibited characters. The system notifies you that there has been an insertion error, and indicates what type of characters should be inserted in that field. 
+
+4c. The user did not enter the format required for a field. The system notifies you that there has been an insertion error and indicates what type of format should be used for that field. 

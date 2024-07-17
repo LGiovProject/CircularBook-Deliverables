@@ -1,0 +1,9 @@
+
+
+1) The system shall show a list of available books 
+
+
+2)The system shall provide a way to enter books along with their information 
+
+
+3)The system shall allow you to register as a user or as a bookshop. 

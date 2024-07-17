@@ -1,0 +1,9 @@
+ 
+
+1) As a user I would like to be able to lend or give away my books, so that I can recycle books I no longer use. 
+
+
+2) As a user I would like to be able to take or lend books I would like to read so that I don't have to buy them. 
+ 
+
+3) As a bookshop I would like to be able to insert events/promotions, so that I can promote my bookshop. 
